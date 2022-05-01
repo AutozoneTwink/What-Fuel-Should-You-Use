@@ -60,22 +60,23 @@ Also, if you've done this kinda stuff or know something feel free to give me let
 
 ---
 **References**
+
 Fuel Grade
-https://en.wikipedia.org/wiki/Octane_rating
-https://www.eia.gov/energyexplained/gasoline/octane-in-depth.php#:~:text=Retail%20gasoline%20stations%20in%20the,fuel–generally%2091–94)
+- https://en.wikipedia.org/wiki/Octane_rating
+- https://www.eia.gov/energyexplained/gasoline/octane-in-depth.php#:~:text=Retail%20gasoline%20stations%20in%20the,fuel–generally%2091–94)
 
 Engine Knock
-https://en.wikipedia.org/wiki/Engine_knocking
+- https://en.wikipedia.org/wiki/Engine_knocking
 
 E85
- https://en.wikipedia.org/wiki/E85
- https://www.caranddriver.com/research/a31851426/what-is-e85-gas/
+- https://en.wikipedia.org/wiki/E85
+- https://www.caranddriver.com/research/a31851426/what-is-e85-gas/
 
 What Fuel Grade to Use
-https://www.sunocoracefuels.com/tech-article/street-strip-fueling-basics
-https://www.edmunds.com/fuel-economy/to-save-money-on-gas-stop-buying-premium.html
-https://www.nshonda.com/blog/2017/july/31/what-happens-if-you-put-the-wrong-fuel-in-your-car.html
+- https://www.sunocoracefuels.com/tech-article/street-strip-fueling-basics
+- https://www.edmunds.com/fuel-economy/to-save-money-on-gas-stop-buying-premium.html
+- https://www.nshonda.com/blog/2017/july/31/what-happens-if-you-put-the-wrong-fuel-in-your-car.html
 
 Running Ethanol/Methanol
-https://sanedriver.com/modify-your-car-to-run-on-alcohol-fuel/
-https://www.enginebasics.com/Advanced%20Engine%20Tuning/E85%20conversion.html
+- https://sanedriver.com/modify-your-car-to-run-on-alcohol-fuel/
+- https://www.enginebasics.com/Advanced%20Engine%20Tuning/E85%20conversion.html
