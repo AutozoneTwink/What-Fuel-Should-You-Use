@@ -54,7 +54,7 @@ Changing out parts so you can run E85 is honestly a really solid idea as it work
 ---
 Please run the right fuel guys :pleading_face:. 
 
-Also, if you've done this kinda stuff or know something feel free to give me let me hear about it [@autozonetwink](https://www.instagram.com/autozonetwink/) Pretty please :pleading_face:.
+Also, if you've done this kinda stuff or know something feel free to give me let me hear about it [@uninsuredmotorist](https://www.instagram.com/uninsuredmotorist/) Pretty please :pleading_face:.
 
 ###### K out :)
 
